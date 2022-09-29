@@ -8,11 +8,12 @@ export const getNewsData = async () => {
     await new Promise((resolve) => setTimeout(resolve, 5000))
 
     let relatorio = await page.evaluate(async () => {
-        const news = [...document.querySelectorAll(".column article")];
+        let news = [...document.querySelectorAll(".column article")];
         const newsFinal: any[] = [];
 
         for (let i = 0; i < 26; i++) {
             await new Promise((resolve) => setTimeout(resolve, 5000))
+            news = [...document.querySelectorAll(".column article")];
             let next: any = document.querySelector('.current')!.nextElementSibling;
             news.map((i: Element) => {
                 let news: {
@@ -42,15 +43,17 @@ export const getNewsData = async () => {
                 news.categoryLink = i.children[2].children[1].getAttribute('href') as string;
                 news.resume = i.children[3].children[0].children[0].innerHTML as string;
 
+                console.log(news)
                 newsFinal.push(news)
             })
             await new Promise((resolve) => setTimeout(resolve, 2000))
             i !== 25 ? next.click() : "";
         }
 
-
         return JSON.stringify(newsFinal, null, 2);
     })
+
+
 
     fs.writeFile('news.json', relatorio, (err: NodeJS.ErrnoException | null) => {
         if (err) throw err;
