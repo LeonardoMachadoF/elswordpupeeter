@@ -54,13 +54,20 @@ export const getHomeData = async () => {
                     imageUrl: '',
                     portrait: '',
                 },
+                {
+                    path: 0,
+                    name: '',
+                    description: '',
+                    imageUrl: '',
+                    portrait: '',
+                }
             ],
             portrait: '',
             videoUrl: ''
         }
 
         await characters[i].click();
-        await new Promise((resolve) => setTimeout(resolve, 1000))
+        await new Promise((resolve) => setTimeout(resolve, 2000))
 
         const { name, portrait } = await characters[i].evaluate((i) => {
             let charName = i.firstElementChild?.getAttribute('alt');
@@ -74,9 +81,9 @@ export const getHomeData = async () => {
         let url = await video?.evaluate((e: any) => e.src);
         character.videoUrl = url;
 
-        for (let k = 0; k < 3; k++) {
+        for (let k = 0; k < 4; k++) {
             await classes[k].click()
-            await new Promise((resolve) => setTimeout(resolve, 1000))
+            await new Promise((resolve) => setTimeout(resolve, 200))
             let { alias, description, name } = await page.evaluate(async () => {
                 const items = [...document.querySelectorAll("#characters > div.et_pb_column.et_pb_column_1_3.et_pb_column_7.et_pb_css_mix_blend_mode_passthrough.et-last-child div p")]
                 let name = items[1].innerHTML;
@@ -131,7 +138,14 @@ export const getHomeData = async () => {
     relatorio.map((i: Character) => {
         i.classes.map((z: ClassType) => {
             newArray.map((k: any) => {
-                if (k.indexOf(i.name) > -1 && (k.indexOf(`${z.path.toString()}st`) > -1 || k.indexOf(`${z.path.toString()}nd`) > -1 || k.indexOf(`${z.path.toString()}rd`) > -1)) {
+                if (k.indexOf(i.name) > -1
+                    &&
+                    (
+                        k.indexOf(`${z.path.toString()}st`) > -1
+                        || k.indexOf(`${z.path.toString()}nd`) > -1
+                        || k.indexOf(`${z.path.toString()}rd`) > -1
+                    )
+                ) {
                     z.imageUrl = k
                 }
             })

@@ -1,0 +1,506 @@
+[
+  {
+    "name": "elsword",
+    "alias": "The Swordsman",
+    "classes": [
+      {
+        "path": 1,
+        "name": "Knight Emperor",
+        "description": "Elsword sets out on a journey to restore the El and find his sister. He begins training until he improves his swordsmanship by creating new ways to fight with his sword. He continues his training until his endurance and power improve. After facing difficult trials, Elsword becomes a master swordsman and a fierce commander in battle who is unmatched with his great sword!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-elsword-1stpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-elsword-1stpath.png"
+      },
+      {
+        "path": 2,
+        "name": "Rune Master",
+        "description": "As he sets off on a journey to find his sister and to become stronger, Elsword finds out that he is very vulnerable to magic attacks. To remedy this, he studies magic to balance out this weakness. Through constant training, he's able to incorporate the use of runes in his close or long-range battles, making him an effective fighter. Soon, Elsword becomes the strongest magic swordsman combining might and magic to deal the ultimate blow to enemies everywhere!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-elsword-2ndpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-elsword-2ndpath.png"
+      },
+      {
+        "path": 3,
+        "name": "Immortal",
+        "description": "During his journey to find his sister and to become stronger, Elsword finds an ancient treasure that turns into another great sword. He uses this new weapon to develop a unique fighting style! This new great sword absorbs dark El energy, which grants him even more power! A more powerful Elsword gains the ability to summon an unlimited number of swords and merge them into giant black swords! With the dark energy empowering him and his swords, Elsword is ready to strike without a second thought!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-elsword-3rdpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-elsword-3rdpath.png"
+      },
+      {
+        "path": 4,
+        "name": "Genesis",
+        "description": "As Elsword continues his journey, he came to realize that his strength just wasn't enough to protect the El and his friends. He created a support equipment called \"Sephira\" to allow him to resonate with the El better. Unfortunately, the more he harnessed this power, the less he seemed to remember. However, Elsword decided that even if he would lose a part of himself in the process, he would not let everyone down. It was a choice he made, with a realization that everything will follow according to fate and El's will. Elsword finally transforms into a Sword of El ready to smite anyone who brings harm to the El and the people of Elrios!",
+        "imageUrl": "",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-elsword-4thpath.png"
+      }
+    ],
+    "portrait": "https://elsword.koggames.com/wp-content/uploads/2021/11/thumb_elsword.png",
+    "videoUrl": "https://www.youtube.com/embed/aUYp7h6G_Hg?feature=oembed"
+  },
+  {
+    "name": "aisha",
+    "alias": "The Magician",
+    "classes": [
+      {
+        "path": 1,
+        "name": "Aether Sage",
+        "description": "After having her magic sealed, Aisha joins Elsword on a journey to get it back. Wanting to follow the footsteps of her mentor, she trains hard, and eventually masters the four elements of nature. With the knowledge she gained through her journey, Aisha can now control multiple elements at once and discovers the ultimate form of elemental magic! She can melt multiple enemies' faces off with one swipe of her staff!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-aisha-1stpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-aisha-1stpath.png"
+      },
+      {
+        "path": 2,
+        "name": "Oz Sorcerer",
+        "description": "During her journey with her friends, Aisha was able to obtain and use Dark Magic while avoiding the influence of the demon world. She cultivates and harnesses this power until a demon bat appears and offers her a contract, telling her she would become more powerful with it. Aisha accepts the contract, becoming even more powerful and reaching the pinnacle of dark magic! When summoned, the demon bat Angkor lends his hand to Aisha to leave enemies writhing in pain!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-aisha-2ndpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-aisha-2ndpath.png"
+      },
+      {
+        "path": 3,
+        "name": "Metamorphy",
+        "description": "While journeying with her friends, Aisha becomes adept in close-combat as well as releasing powerful magical orbs. At one point, Aisha becomes frustrated with the limits of her physique but after much effort and tinkering, Aisha is eventually able to gain the ability to control time and space dimensions. Eventually, Aisha masters this power and can now transform into her ultimate form to defeat any baddies that come her way!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-aisha-3rdpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-aisha-3rdpath.png"
+      },
+      {
+        "path": 4,
+        "name": "Lord Azoth",
+        "description": "After feeling great loss due to losing her mana from the ring, Aisha decides that this loss will provide another good opportunity for her to train her magic. She finds out about alchemy in Bethma and jumps at the opportunity to learn about the endless potential alchemy provides as well as its connection to ancient magic. Soon enough she begins to experiment on her body and eventually manages to create a homunculus as well as develop explosive flasks. As she delves more into alchemy, she learns about the Philosopher's Stone and manages to create one after many dangerous experiments. Because of her dedication to her craft, Aisha decides to fuse with the Philosopher's Stone and is reborn as the immortal Lord Azoth! Enemies beware! Her thirst for knowledge cannot be stopped!",
+        "imageUrl": "",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-aisha-4thpath.png"
+      }
+    ],
+    "portrait": "https://elsword.koggames.com/wp-content/uploads/2021/11/thumb_aisha.png",
+    "videoUrl": "https://www.youtube.com/embed/AgLZzqBvrZM?feature=oembed"
+  },
+  {
+    "name": "rena",
+    "alias": "The Ranger",
+    "classes": [
+      {
+        "path": 1,
+        "name": "Anemos",
+        "description": "As Rena travels with Elsword, she decides she needs to train to become stronger, now that she's an elf living in the mortal world. Rena decides to improve her martial arts using powerful kicks and quick movements to close the gap between her and her enemies! Soon after, Rena accepts the help from wind spirits, enabling her to use the power of the wind with her martial arts moves. Now, Rena is like a wild tempest ready to blow her enemies down!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-rena-1stpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-rena-1stpath.png"
+      },
+      {
+        "path": 2,
+        "name": "Daybreaker",
+        "description": "While traveling with her friends, Rena decides to focus on training her speed and accuracy to improve her archery. With the help of her strong connection to the wind, Rena is able to upgrade her mobility and efficiency while using her bow! Rena is the leader of elves blessed by the wind! Her bow and arrows are infallible and will pierce through enemy lines!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-rena-2ndpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-rena-2ndpath.png"
+      },
+      {
+        "path": 3,
+        "name": "Twilight",
+        "description": "As she continues to travel with her new friends, Rena comes across a group of assassin elves and becomes interested in their stealth capabilities. Using her stealth and traps, Rena, and her friends rescues a community, and was rewarded with a reforged weapon which she uses to become more battle efficient! Rena continues to work under stealth becoming the protector of the night and will ambush enemies before they even know what hit 'em!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-rena-3rdpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-rena-3rdpath.png"
+      },
+      {
+        "path": 4,
+        "name": "Prophetess",
+        "description": "When Rena noticed the spirits have begun to hide away from the humans, she decided to become a mediator that would bridge the worlds and rekindle their link. She discovers that when she records the spirits' voices and turn it into prose, she gains the power of the spirits. Soon, she meets up with an ancient language expert from Feita to decipher the spirits language. This is where she discovered that the power grew stronger when melodies and chords added. As her senses became more acute in Elriabrunnr, Rena could see that everything in the world had patterns and flow, just like how words had rhyme and rhythm. Combined with her senses and the wisdom of the spirits, she has become the prophet that foresee dangers and lead the world. Rena’s song becomes the opening to a new era!",
+        "imageUrl": "",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-rena-4thpath.png"
+      }
+    ],
+    "portrait": "https://elsword.koggames.com/wp-content/uploads/2021/11/thumb_rena.png",
+    "videoUrl": "https://www.youtube.com/embed/lcctl90LXS0?feature=oembed"
+  },
+  {
+    "name": "raven",
+    "alias": "The Mercenary",
+    "classes": [
+      {
+        "path": 1,
+        "name": "Furious Blade",
+        "description": "Raven is a mercenary captain who once fought the Kingdom of Velder and later joins the El Search Party. During his travels, Raven decides not to rely on his Nasod arm and trains himself on swordsmanship. Without relying on his arm, he learns to tame his rage and further advance his sword abilities. Raven modifies his arm until it is indistinguishable from a human arm, completely leaving his battle style using the Nasod Arm behind and reaches heights as a full-fledged human! Now, no enemy can come close to those he protects while he wields his sword!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-raven-1stpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-raven-1stpath.png"
+      },
+      {
+        "path": 2,
+        "name": "Rage Hearts",
+        "description": "As Raven travels with his new friends and faces more trials, he finds the need to reach new heights with his abilities. He trains himself to the limit and realizes that his Nasod Arm fuels his rage. He finds a way to control this rage and channel it to become more powerful. He walks the path of reckless abandon fueled with rage, but slowly learns to control it. When he finally accepts his Nasod Arm as a true part of himself, Raven becomes a destructive force, who is able to obliterate his enemies!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-raven-2ndpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-raven-2ndpath.png"
+      },
+      {
+        "path": 3,
+        "name": "Nova Imperator",
+        "description": "Raven's comrades were all sacrificed during the fight against the Kingdom of Velder. To honor his fallen comrades, Raven decides to enhance his Nasod Arm giving it the ability to unleash massive fire blasts. This kind of power comes at a cost of overheating, which devastates his own body as much as it devastates enemies. Eventually Raven fully converts his body to bypass human limitations to bypass the harm from overheating. This cool-headed tactician is now able to release powerful fire blasts that obliterate and turns his enemies to dust!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-raven-3rdpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-raven-3rdpath.png"
+      },
+      {
+        "path": 4,
+        "name": "Revenant",
+        "description": "Even after escaping the mind control device and leaving on a journey towards redemption, Raven still feels burning rage within him. In order to completely escape the influence of the mind control device, he decides to destroy the Nasod Arm using Alterasia. The Alterasia successfully destroys his left arm and mutates as the parasitic plant fuses with the Nasod technology. However, the venom from the plant soon begins to spread throughout his body and his vision begins to fade. At the brink of death, Raven is found by the Ponggos and they gift him an armor that slows down the spread of the plant's venom. While the spread did slow down, a large amount of venom collected in his left arm, gaining the ability to instantly turn anything it touched to ashes. With this newfound ability, Raven was reminded of all his precious allies who withered away in vain and makes an oath to stop at nothing to get his revenge!",
+        "imageUrl": "",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-raven-4thpath.png"
+      }
+    ],
+    "portrait": "https://elsword.koggames.com/wp-content/uploads/2021/11/thumb_raven.png",
+    "videoUrl": "https://www.youtube.com/embed/MRlKiTvpJ_0?feature=oembed"
+  },
+  {
+    "name": "eve",
+    "alias": "The Nasod Queen",
+    "classes": [
+      {
+        "path": 1,
+        "name": "Code: Ultimate",
+        "description": "Eve, The Queen of Nasods, awakens after centuries of slumber and joins Elsword and his friends. As their travel continues, Eve discovers a hidden code in her programming which allows her to enhance her battle using Nasod spears and wings. Eve keeps upgrading that code making her even tougher in battles, until she eventually overcomes the limits of her programming! With her powerful Nasod spear and ultimate command of drones, Eve will annihilate all enemies before her!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-eve-1stpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-eve-1stpath.png"
+      },
+      {
+        "path": 2,
+        "name": "Code: Esencia",
+        "description": "As Eve travels with Elsword and the gang, she soon realizes that her direct participation in battle is not the most efficient way to victory. Instead, Eve decides to tap into her knowledge to build her first guardian unit that will fight for her. As the battle becomes harder, she builds more until she has amassed several loyal Nasod summons! Eve has become the Benevolent White Empress of Nasods controlling the battlefield and leading her Nasod Assistants to victory!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-eve-2ndpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-eve-2ndpath.png"
+      },
+      {
+        "path": 3,
+        "name": "Code: Sariel",
+        "description": "As Eve journeys across Elrios with her new friends, she discovers a code that enables her to utilize the power of the El. With this new code, Eve is able to shoot multiple powerful electron beams. In an attempt to become even stronger, Eve uses the power of the Dark El, but in the process, she terminates her emotions. Eve becomes the Radiant Queen of Light, an extremely mighty Nasod, who is able to ruthlessly release powerful photon energies that destroy anyone and anything in battle!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-eve-3rdpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-eve-3rdpath.png"
+      },
+      {
+        "path": 4,
+        "name": "Code: Antithese",
+        "description": "When she was investigating a destroyed core, Eve finds a mysterious code that was discarded back when research for Henir was still being done. In hopes of finding a solution to rebuild the Nasod Kingdom, Eve releases the unknown code and obtains great power at the cost of her aerial movement code. Eve begins to use the unknown code even as hundreds of error messages began to build up. Unable to accept that she released a failing code, Eve forces all results to comeback successful. However, this method overloaded her emotion core whenever information and code were still lost â€“ albeit replaced using the new perfect code. With all her system failures and code replacement happening without her knowledge, Eve could no longer differentiate between right and wrong, and decided that since she is perfect, anyone who opposes her must be wrong. Eve becomes the Queen of Extinction who wishes to eradicate all that opposes her perfect code!",
+        "imageUrl": "",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-eve-4thpath.png"
+      }
+    ],
+    "portrait": "https://elsword.koggames.com/wp-content/uploads/2021/11/thumb_eve.png",
+    "videoUrl": "https://www.youtube.com/embed/ZpcYI1RnEtA?feature=oembed"
+  },
+  {
+    "name": "chung",
+    "alias": "The Guardian",
+    "classes": [
+      {
+        "path": 1,
+        "name": "Comet Crusader",
+        "description": "When he is saved by the El Search Party from his demon corrupted father, Chung becomes determined more than ever to train himself and become stronger. Because of his strong will to fight and protect his friends, the Guardian Stone transforms! The stone's transformation fortifies Chung's cannon and armor, allowing him to stand in front of enemies' attacks to guard his friends! Chung now becomes the reliable protector and guardian, dominating the field with his cannon and his fortified armor!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-chung-1stpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-chung-1stpath.png"
+      },
+      {
+        "path": 2,
+        "name": "Fatal Phantom",
+        "description": "As he travels together with the El Search Party, Chung learns quickly that he needs to become more versatile in battle. He begins to study ways in which he can utilize the Guardian Stone until he eventually succeeds in crafting guns, called Silver Shooters! Having two Silver Shooters, Chung is now nimbler and even more dangerous at a distance! With his Silver Shooters, Chung leaves no traces behind and the mention of his name instills fear in his enemies!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-chung-2ndpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-chung-2ndpath.png"
+      },
+      {
+        "path": 3,
+        "name": "Centurion",
+        "description": "While Chung travels with the El Search Party, he finds a way to improve the Guardian Stone, redesigning his cannon and creating new gadgets to become more powerful. He begins to research more ways to enhance his canon until it's able to generate boundless amounts of El energy! With the newfound power, Chung is able to generate multiple portals effortlessly, bringing weapons of mass destruction from beyond. Nowhere in the battlefields is safe when his artillery strikes!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-chung-3rdpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-chung-3rdpath.png"
+      },
+      {
+        "path": 4,
+        "name": "Dius Aer",
+        "description": "The Sanctuary the Embraces Everyone Who Needs Protection. As Chung helps out others endless and with a pure heart, his Guardian Stone grows, and he transforms into a new form. So, in the midst of a fierce battle, Chung soared up in the air as if he's an angel and becomes Dius Aer, the sanctuary that embraces everyone who needs protection and continues his virtuous deeds!",
+        "imageUrl": "",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-chung-4thpath.png"
+      }
+    ],
+    "portrait": "https://elsword.koggames.com/wp-content/uploads/2021/11/thumb_chung.png",
+    "videoUrl": "https://www.youtube.com/embed/EVhVqpgNf40?feature=oembed"
+  },
+  {
+    "name": "ara",
+    "alias": "The Martial Artist",
+    "classes": [
+      {
+        "path": 1,
+        "name": "Apsara",
+        "description": "When she finds out that her brother is turned into a demon because of the Dark El, Ara decides to join the El Search Party to try and bring him back. During her journey, Ara further trains her martial arts as well as her spearmanship and is resolved to follow the path of good. Slowly but surely, she masters the ultimate level of spearmanship! The earth trembles and enemies fall at the slightest movement of her spear!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-ara-1stpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-ara-1stpath.png"
+      },
+      {
+        "path": 2,
+        "name": "Devi",
+        "description": "During her journey in search of her brother, Ara learns from an ancient tome that she can utilize the powers of darkness to be stronger. She cultivates this darkness and utilizes it to increase her strength while restricting enemies' movements. However, as the darkness takes over, Ara starts to crave the thrill of battle moreand more. Enemies watch out! Ara is ready to let out her dark energy and wipe enemies without a care in the world!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-ara-2ndpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-ara-2ndpath.png"
+      },
+      {
+        "path": 3,
+        "name": "Shakti",
+        "description": "During her journey in search of her brother, Ara finds out about the ancient technique her ancestors used to capture the Nine-tailed Fox, Eun. Through her tireless research, Ara learns she can undo her ancestor's seal and fully accepts Eun as a partner, allowing her to harness Eun's power to become even more powerful. This newfound power enables Ara to become the very first fox sage! Equipped with her trusty spear and an array of powerful spells, enemies drop like leaves from her unleashed potential!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-ara-3rdpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-ara-3rdpath.png"
+      },
+      {
+        "path": 4,
+        "name": "Surya",
+        "description": "When Ara borrowed Eun's power, her newfound ability allowed her to see holy beasts. The holy beasts have lost their home and Ara decided that she wanted to help them. In return, the holy beasts lent Ara their powers. Eventually, because she's always trying to help everyone she encounters, the bond between her and the holy beasts begin to weaken. Ara learned that she could not take control of the holy beasts' powers, but instead she should accept that the powers were only lent to her. This understanding led Ara to unlock the spiritual power's true potential. As her journey continues, Ara realized that helping people who suffered from demons is not a deterrent from her goal of chasing Ran. On the contrary, she realized she could help set Ran towards the right path. With the help of the holy beasts, she gains a new understanding of the world. With her full powers unlocked, Ara becomes the all-powerful enlightened guide that lights the path for all creation!",
+        "imageUrl": "",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-ara-4thpath.png"
+      }
+    ],
+    "portrait": "https://elsword.koggames.com/wp-content/uploads/2021/11/thumb_ara.png",
+    "videoUrl": "https://www.youtube.com/embed/D_eBFT38SsU?feature=oembed"
+  },
+  {
+    "name": "elesis",
+    "alias": "The Red Knight",
+    "classes": [
+      {
+        "path": 1,
+        "name": "Empire Sword",
+        "description": "After Elesis leaves her brother, Elsword, to become stronger, she trains hard, eventually becoming the captain of Red Knights of Velder Kingdom. Even after she reunites with Elsword, she continues to refine her swordplay, ultimately becoming Grandmaster and a renowned hero of the people! With her overwhelming sword skills, she brings justice and order to the land while making enemies tremble in fear!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-elesis-1stpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-elesis-1stpath.png"
+      },
+      {
+        "path": 2,
+        "name": "Flame Lord",
+        "description": "Soon after Elesis separates from her brother to train, she unlocks the great power of her bloodline: Fire Magic! In the beginning, Elesis finds this new power difficult to control, but eventually after continuous training, Elesis is able to master it! Elesis is now the great incarnation of fire that engulfs her enemies in flames and turns them into ashes in one fell swoop!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-elesis-2ndpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-elesis-2ndpath.png"
+      },
+      {
+        "path": 3,
+        "name": "Bloody Queen",
+        "description": "As she encounters more and more enemies using deplorable tactics, Elesis begins to think that perhaps the honorable way isn't always the best. She starts turning to the darkness and after nearly losing her life, absorbs the power of the Dark El to give her strength. Now, Elesis walks the path of destruction. She becomes a bloodthirsty knight using the blood of her enemies and her own for greater power! With a strong intent to kill, she's ready to slaughter any enemies she encounters!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-elesis-3rdpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-elesis-3rdpath.png"
+      },
+      {
+        "path": 4,
+        "name": "Adrestia",
+        "description": "Elesis is now able to use the Sword of El freely. As if showing that she’s slowly merging with the El, her left arm has turned blue. When she learns that she was chosen as the next El Lady, she thought about her options carefully and concluded that even if she became the El Lady, the problems in Elrios would not be resolved. She questioned if there’s any reason to follow this chain of repetition? Strengthening her resolve, Elesis decided to sever this practice that’s been passed down for generations. She opens a new path — not as the El Lady who manages and maintains the Power of El, but as the warrior Adrestia who fells mighty enemies with one swoop and protects Elrios like no other!",
+        "imageUrl": "",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-elesis-4thpath.png"
+      }
+    ],
+    "portrait": "https://elsword.koggames.com/wp-content/uploads/2021/11/thumb_elesis.png",
+    "videoUrl": "https://www.youtube.com/embed/W73upU2issY?feature=oembed"
+  },
+  {
+    "name": "add",
+    "alias": "The Tracer",
+    "classes": [
+      {
+        "path": 1,
+        "name": "Doom Bringer",
+        "description": "When Add learns he has traveled into the future, Add becomes obsessed with Nasod technology. Soon after, Add develops a Nasod Armor prototype as well as make significant upgrades to his weapons, to fit his more direct combat style. Eventually, Add decides to enhance his body and overcome human limitations by fusing himself with the Nasod Armor! With the Nasod Armor, Add becomes even more powerful - a tactical force to be reckoned with!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-add-1stpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-add-1stpath.png"
+      },
+      {
+        "path": 2,
+        "name": "Dominator",
+        "description": "After unending research, Add finds out that traveling back to the past will require massive amounts of El Energy. He starts upgrading his Dynamos beyond its limits, enabling him to control and summon drones using his newly upgraded Dynamo. Through continuous experimentations, he manages to create his own virtual reality and an army of drones at his disposal! This system gives Add the ultimate advantage on the battlefield allowing him to dominate his foes!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-add-2ndpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-add-2ndpath.png"
+      },
+      {
+        "path": 3,
+        "name": "Mad Paradox",
+        "description": "Add tries to find a way to go back to the past. After much research, he manages to implement a time travel equation to his Dynamos and travels through time. However, he soon discovers that no matter how many times he travels back in time, he can never go back to a reality where he can save his family. This knowledge that he cannot go back to his family eventually drives him insane. Add continues to use the Space-Time Distortion to bring destruction and chaos to his enemies and becomes the demon of paradox!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-add-3rdpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-add-3rdpath.png"
+      },
+      {
+        "path": 4,
+        "name": "Overmind",
+        "description": "The Mad Doctor Who Rules with a Mask of Benevolence. The sign of Add’s weakness on his neck barely remains, and he is over the stage of treating and enhancing people from the countless experiments he conducted. Elrios, suffering from the demon invasion, saw new hope in the new hero and healer, but all he sees in them are test subjects. Mere chess pieces that will follow every order and will never betray him. Everything is under Add’s control. He uses the foundation he built from the research to become Overmind — the ruler who leads people to the world of perfection that no one dared to enter before.",
+        "imageUrl": "",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-add-4thpath.png"
+      }
+    ],
+    "portrait": "https://elsword.koggames.com/wp-content/uploads/2021/11/thumb_add.png",
+    "videoUrl": "https://www.youtube.com/embed/WoKXoGZ0eTQ?feature=oembed"
+  },
+  {
+    "name": "luciel",
+    "alias": "Duo of Demons",
+    "classes": [
+      {
+        "path": 1,
+        "name": "Catastrophe",
+        "description": "Ciel finds Lu in her weakened state and forms a contract together. With the two teaming up, Lu gains the power to induce fear and command beasts of terror. Slowly, as Lu fully regains her power, Ciel also evolves until he also becomes a full-fledged demon. Together, they are known as the Demon Lords of Terror instilling fear into the hearts of their enemies!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-luciel-1stpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-luciel-1stpath.png"
+      },
+      {
+        "path": 2,
+        "name": "Innocent",
+        "description": "After finding a weakened Lu, Ciel swears to protect her and help her regain her rightful place. His determination to protect and serve Lu pushes Ciel to train harder, using his gunblade to train his marksmanship and become a Royal Guard. With Ciel's constant support, Lu slowly regains control of her demonic powers, allowing her to harness more and more of her original power.",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-luciel-2ndpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-luciel-2ndpath.png"
+      },
+      {
+        "path": 3,
+        "name": "Diangelion",
+        "description": "Soon after Lu and Ciel form a contract, Lu is filled with powerful demonic energy, which accelerates her recovery, but also causing her to become more ruthless. The overwhelming power that returned to Lu leaves excessive demonic energy, which causes Ciel to slowly become a full-fledged demon and lose his humanity. Soon after, Lu becomes the Demon Lord of Destruction and both Lu and Ciel become stronger by utilizing the Dark El. Enemies beware, the powerful duo now enjoys the thrill of destruction!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-luciel-3rdpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-luciel-3rdpath.png"
+      },
+      {
+        "path": 4,
+        "name": "Demersio",
+        "description": "When Ciel receives a fatal wound from the on-going assault from the demon assassins, Lu decides to attempt another soul contract to save him. However, the taxing nature of the contract begins to dull Lu's senses, and her emotions start to fade as a sense of futility engulfs her. As Lu's emotions fade away after the contract, Ciel believes this to be his fault. And when Lu's condition continues to worsen, his self-blame and guilt begins to form a twisted sense of responsibility. Watching Ciel, Lu reminisces the warm emotion she felt before and extends her hand towards Ciel. He notices the gesture without a smile, but this change gives him hope that his efforts are coming to fruition and that her willpower is returning. Ciel believes that everything will be back to how it was if Lu regains her throne and power. This finally gives him the resolve to destroy everything that stands in his way!",
+        "imageUrl": "",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-luciel-4thpath.png"
+      }
+    ],
+    "portrait": "https://elsword.koggames.com/wp-content/uploads/2021/11/thumb_luciel.png",
+    "videoUrl": "https://www.youtube.com/embed/7P2gUIgF2X4?feature=oembed"
+  },
+  {
+    "name": "rose",
+    "alias": "The Empyrean Gunner",
+    "classes": [
+      {
+        "path": 1,
+        "name": "Tempest Burster",
+        "description": "After being sent to Elrios through a dimensional tear, Rose joins the El Search Party and trains to become stronger so she could fight the Nasods. She continuously modifies her weapons using an El Shard until she begins to have complete mastery of her heavy weapons! With her new railgun's ultimate piercing capabilities, Rose demolishes everything in an instant!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-rose-1stpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-rose-1stpath.png"
+      },
+      {
+        "path": 2,
+        "name": "Black Massacre",
+        "description": "After being sent to Elrios, Rose learns that her world and the princess she was trying to protect were attacked. In a panic, she sought help to get stronger. Using the Dark El, Rose enhances herself by becoming a ruthless killing machine. With her trusty chain revolver in hand that causes her enemies to bleed, Rose becomes a dangerous assassin who will stop at nothing to eliminate enemies trying to hurt the princess!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-rose-2ndpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-rose-2ndpath.png"
+      },
+      {
+        "path": 3,
+        "name": "Minerva",
+        "description": "Rose, after being sent to Elrios from another dimension, learns to adapt to the environment. She wants to maximize mobility and develops Nitro Motor that lets her \"fly\" through the battlefield! Not wanting to compromise mobility for firepower she develops a variety of grenades to be used at her disposal. Rose becomes the master of aerial combat as she turns the tide of battle in her favor every time!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-rose-3rdpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-rose-3rdpath.png"
+      },
+      {
+        "path": 4,
+        "name": "Prime Operator",
+        "description": "Rose gets inspired by Nasod design and engineering after being thrust into Elrios through a dimensional tear. After studying these mechanisms, she seeks to replicate the technology and manages to create her own with unmatched power and beauty! Through tireless research, Rose continues to build her army of mechs that are not only extremely powerful, but are also sleek in design! Rose is now hailed as the Goddess of Machines that will obliterate anyone that stands in her way!",
+        "imageUrl": "",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-rose-4thpath.png"
+      }
+    ],
+    "portrait": "https://elsword.koggames.com/wp-content/uploads/2021/11/thumb_rose.png",
+    "videoUrl": "https://www.youtube.com/embed/giY122_XKzg?feature=oembed"
+  },
+  {
+    "name": "ain",
+    "alias": "God's Agent",
+    "classes": [
+      {
+        "path": 1,
+        "name": "Richter",
+        "description": "Ain, created by the Goddess Ishmael, joins the El Search Party to restore the El. Disappointed by the humans for the villainous, and cowardly acts they commit, Ain begins to lose faith in humanity and becomes more and more committed to his mission as the Goddess's Emissary. His power from the Goddess enables Ain to use projection magic to attack. As he fully accepts his mission, Ain slowly loses his human element. Ain reaches the height of his Projection Powers and will bring divine judgment to those that defy the goddess!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-ain-1stpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-ain-1stpath.png"
+      },
+      {
+        "path": 2,
+        "name": "Bluhen",
+        "description": "After joining the El Search Party, Ain starts to become disillusioned by humanity. However, as Ain continues his journey with the El Search Party, he begins to understand the good in human nature. He forms a strong bond with the group thus the ultimate harmony between El Energy and the power of the goddess forms! Using the power of Eid, born from his human emotion, Ain is an expert in protecting his allies while taking down his enemies!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-ain-2ndpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-ain-2ndpath.png"
+      },
+      {
+        "path": 3,
+        "name": "Herrscher",
+        "description": "After being sent on a quest, Ain becomes corrupted by chaos energy. His body slowly corrodes away every time he uses his power. He despairs as the Goddess does not help him even as his body slowly wastes away. Ain eventually abandons the Goddess and the mission and ascends from the chaos. He completely embraces the chaos, and he becomes the Master of the Void. Ain masters the endless chaos and uses this to completely annihilate his foes!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-ain-3rdpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-ain-3rdpath.png"
+      },
+      {
+        "path": 4,
+        "name": "Opferung",
+        "description": "The Twisted Apostle Who Hungers for a Response from the Goddess. Corrupted by demonic energy and chaos, Ain could not return the El to its original state. This made him feel great emptiness and confusion. Because of the never-ending anxiety he feels, Ain finally gave up on the Goddess’ response that he desperately, but resentfully waited for. In his corrupted mind, Ain thought he can pay for whatever sins he commit later. With his new corrupted power, Ain opened up the path of a hypocrite and decides to bait for a response from the Goddess – even if he has to destroy the Elrios that the Goddess loves so much.",
+        "imageUrl": "",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-ain-4thpath.png"
+      }
+    ],
+    "portrait": "https://elsword.koggames.com/wp-content/uploads/2021/11/thumb_ain.png",
+    "videoUrl": "https://www.youtube.com/embed/GR3QzdVdLHE?feature=oembed"
+  },
+  {
+    "name": "laby",
+    "alias": "The Mysterious Child",
+    "classes": [
+      {
+        "path": 1,
+        "name": "Eternity Winner",
+        "description": "After Laby leaves the Black Forest with Gaia, the Earth El Master, they encounter many dangerous monsters. When Gaia sees Laby's natural knack for fighting, he offers to give her formal martial arts training. Even after she separates from Gaia, Laby decides to continue to train until she becomes a master using explosive but vibrant hand-to-hand combat techniques. Enemies will flee just at the sight of her stance!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-laby-1stpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-laby-1stpath.png"
+      },
+      {
+        "path": 2,
+        "name": "Radiant Soul",
+        "description": "After leaving the Black Forest, Laby realizes that the world beyond the forest is not as fun and happy as she thought. However, she is unable to understand the negative emotions presented to her. Later, Laby finds that her negative emotion was sealed by her mirror companion Nisha, which stopped Laby from fully emphasizing with other people. When Nisha finally unleashes Laby's negative feelings, Laby is finally able to grow, transforming Laby into a radiant girl who is truly compassionate. She teams up with Nisha when she fights to teach the bad guys a lesson!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-laby-2ndpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-laby-2ndpath.png"
+      },
+      {
+        "path": 3,
+        "name": "Nisha Labyrinth",
+        "description": "As Laby enters the outside world, her feelings of excitement faded and was replaced by discomfort. After witnessing the cruelty of the outside world, Laby breaks down and becomes hopeless. Trying to protect Laby from being further harmed by the outside world, Nisha comes out and hides Laby away. Nisha uses her powers of illusions to fight baddies that aim to hurt Laby!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-laby-3rdpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-laby-3rdpath.png"
+      },
+      {
+        "path": 4,
+        "name": "Twins Picaro",
+        "description": "As Laby was excited to leave the forest, a monster invasion leaves her injured and alone at a destroyed port. To protect herself, she became rebellious and aggressive. And together with Nisha, they embark on a journey filled with fear and mistrust. Soon enough, Laby falls due to exhaustion from battling enemies. Nisha allowed Laby to feel a familiar feeling from their defeated enemies which reminded her of Black Forest's aura. Laby was certain that if they become stronger by containing this power, they wouldn't suffer anymore! Soon, Laby realized that Nisha is supposed to embody her sadness, but she refuses to accept that as fact. Laby finally decides to only chase the happiest things for Nisha and together they use their overwhelming power to beat all sorts of enemies to bring about their dream wonderland!",
+        "imageUrl": "",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-laby-4thpath.png"
+      }
+    ],
+    "portrait": "https://elsword.koggames.com/wp-content/uploads/2021/11/thumb_laby.png",
+    "videoUrl": "https://www.youtube.com/embed/X3e8OiG0GfE?feature=oembed"
+  },
+  {
+    "name": "noah",
+    "alias": "The Moon Shadow",
+    "classes": [
+      {
+        "path": 1,
+        "name": "Liberator",
+        "description": "Noah was sealed in the temple shortly after his brother died. Fueled by revenge towards those who murdered his brother, Noah trains and eventually learns to control and master the Power of Shadows. However, as he continues on his path to revenge, Noah realizes that his obsession to revenge his brother trapped him and made him lose sight of his own goal. Noah eventually liberates himself from his vengeful obsession, which finally allows him to rise as the true master of the Shadow. The mastery of his sickle and total control of shadows makes him a fearless fighter in the night!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-noah-1stpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-noah-1stpath.png"
+      },
+      {
+        "path": 2,
+        "name": "Celestia",
+        "description": "When Noah awakens inside the temple, he meets a strange talking weapon who calls himself Clamor. As they travel together, Noah and Clamor begins to learn more about each other and form a bond. Eventually, Clamor begin to tutor Noah in magic, to open more possibilities for him. When Noah goes back in time, waking up inside the temple again, he goes back in time to when Clamor is still alive. With the resources available to him in the past, Noah studies the universe and eventually master the power of constellations! With this acquired power, Noah is able to give Clamor a physical form and together, they utilize cosmic bodies to bring the enemies down in no time!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-noah-2ndpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-noah-2ndpath.png"
+      },
+      {
+        "path": 3,
+        "name": "Nyx Pieta",
+        "description": "When he wakes up inside the temple, Noah finds Yuria in trouble but fails to save her. However, Noah manages to use the power of the Moon to heal her before it is too late. His success in saving Yuria causes Noah to become fixated on trying to save everyone the way his brother would have using the healing power of the Moon, despite it being harmful to his body. Noah continues to use the power of the moon, convinced that protecting others by sacrificing himself is what his brother would have wanted!",
+        "imageUrl": "https://img.koggames.com/reg-page/202201/img/prev-noah-3rdpath.png",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-noah-3rdpath.png"
+      },
+      {
+        "path": 4,
+        "name": "Morpheus",
+        "description": "The Dreamer Who Ignores Reality and Travels Through Unrealistic Dreams. Ignoring the true reality, Noah begins to connect the fragmented pieces from the twisted reality, and he mistakes them for the truth. As Clamor observes Noah mistake him for his brother, he begins to think that this is all Noah’s attempt to survive. The bittersweet side effect of the delusion twists his memories and blurs his grasp on reality. He thinks that perhaps forcing him to see the actual truth will cause Noah harm. And so, it begins. Noah becomes the dreamer who coasts through reality as if in a dream chasing a morphed goal. Through the mutated power of the moon, Noah invites you to his Phantasy!",
+        "imageUrl": "",
+        "portrait": "https://img.koggames.com/reg-page/202201/img/th-noah-4thpath.png"
+      }
+    ],
+    "portrait": "https://elsword.koggames.com/wp-content/uploads/2021/11/thumb_noah.png",
+    "videoUrl": "https://www.youtube.com/embed/8sxnZaIBtJI?feature=oembed"
+  }
+]

@@ -12,7 +12,7 @@ export const getRankingData = async () => {
     for (let i = 0; i < 167; i++) {
         let res = await page.evaluate(async () => {
             let pageOfUsers: any = [];
-            await new Promise((resolve) => setTimeout(resolve, 500))
+            await new Promise((resolve) => setTimeout(resolve, 400))
 
             let users = await document.querySelectorAll('tbody tr');
             for (let i = 0; i < users.length; i++) {
@@ -45,7 +45,7 @@ export const getRankingData = async () => {
 
 
             let active: any = await document.querySelector("#right_nav > a.next");
-            await new Promise((resolve) => setTimeout(resolve, 500))
+            await new Promise((resolve) => setTimeout(resolve, 400))
             active.click();
             return pageOfUsers;
         })
